@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script that shows listening pockets
+netstat -lp
+
